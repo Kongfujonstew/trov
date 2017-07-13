@@ -11,6 +11,9 @@
   },
   "author": "",
   "license": "ISC",
+  "engines": {
+    "node": "6.11.1"
+  },
   "dependencies": {
     "axios": "^0.16.1",
     "babel-loader": "^6.4.1",
